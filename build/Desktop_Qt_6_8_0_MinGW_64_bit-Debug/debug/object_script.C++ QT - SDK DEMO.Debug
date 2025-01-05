@@ -1,0 +1,11 @@
+debug/main.o
+debug/dialog.o
+debug/graphplot.o
+debug/devices.o
+debug/settings.o
+debug/advanced.o
+debug/moc_dialog.o
+debug/moc_graphplot.o
+debug/moc_devices.o
+debug/moc_settings.o
+debug/moc_advanced.o

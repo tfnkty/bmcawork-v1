@@ -1,0 +1,11 @@
+release/main.o
+release/dialog.o
+release/graphplot.o
+release/devices.o
+release/settings.o
+release/advanced.o
+release/moc_dialog.o
+release/moc_graphplot.o
+release/moc_devices.o
+release/moc_settings.o
+release/moc_advanced.o
